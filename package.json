@@ -1,0 +1,23 @@
+{
+  "name": "jumpcloud",
+  "version": "1.0.0",
+  "description": "Statistics Tracker",
+  "main": "stat_functions.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmaon2466/jumpcloud.git"
+  },
+  "author": "LeVar Pulliam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmaon2466/jumpcloud/issues"
+  },
+  "homepage": "https://github.com/lmaon2466/jumpcloud#readme"
+}
